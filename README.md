@@ -1,6 +1,6 @@
 # Data visualisation: examples
 
-All images presented here have been created by code packages developed by Mitchell Black (mtblack@student.unimelb.edu.au)
+All images presented here have been created by  Mitchell Black (mtblack@student.unimelb.edu.au) using his data visualisation packages.
 
 
 ####Animated Sea Surface Temperature Anomalies - Coral Bleaching
