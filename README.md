@@ -2,6 +2,7 @@
 
 All images presented here have been created by  Mitchell Black (mtblack@student.unimelb.edu.au) using his [climate analysis software package](https://github.com/MitchellBlack/Climate_analysis).
 
+------
 
 ###Animated Sea Surface Temperature Anomalies - Coral Bleaching
 
