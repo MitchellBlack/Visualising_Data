@@ -4,7 +4,7 @@ All images presented here have been created by  Mitchell Black (mtblack@student.
 
 ------
 
-###Animated Sea Surface Temperature Anomalies - Coral Bleaching
+##Animated Sea Surface Temperature Anomalies - Coral Bleaching
 
 > <img src= "https://c311ba9548948e593297-96809452408ef41d0e4fdd00d5a5d157.ssl.cf2.rackcdn.com/2016-04-28-great-barrier-reef-bleaching-would-be-almost-impossible-without-climate-change-58408/ii_1545b5d5c5faf4e5.gif" width="560" />
 > 
