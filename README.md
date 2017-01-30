@@ -1,6 +1,6 @@
 # Data visualisation: recent examples
 
-All images presented here have been created by  Mitchell Black (mtblack@student.unimelb.edu.au) using his data visualisation packages.
+All images presented here have been created by  Mitchell Black (mtblack@student.unimelb.edu.au) using his [climate analysis software package](https://github.com/MitchellBlack/Climate_analysis).
 
 
 ###Animated Sea Surface Temperature Anomalies - Coral Bleaching
@@ -23,12 +23,12 @@ All images presented here have been created by  Mitchell Black (mtblack@student.
 
 ### Weather@Home: Precipitation
 
-> <img src= "https://www.dropbox.com/s/vscn3w80sjmebrb/mslp_precip.gif?dl=1" width="580" />
+> <img src= "https://www.dropbox.com/s/hrtlcu8h1ydhjm7/mslp_precip.gif?dl=1" width="580" />
 > 
 > Learn more about modelling [precipitation along the eastern seaboard of Australia](http://onlinelibrary.wiley.com/doi/10.1002/joc.4300/abstract)
 
 ### Weather@Home: Maximum Temperature
 
-> <img src= "https://www.dropbox.com/s/578g79vfwf00lz0/animated_tmax.gif?dl=1" width="550" />
+> <img src= "https://www.dropbox.com/s/swc0vluj23ejwu0/animated_tmax.gif?dl=1" width="550" />
 > 
 > Learn more about [the influence of climate change on recent Australian heat waves](https://theconversation.com/its-been-australias-hottest-ever-october-and-thats-no-coincidence-49941)
