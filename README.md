@@ -17,7 +17,7 @@ All images presented here have been created by  Mitchell Black (mtblack@student.
 
 ### Weather@Home: McArthur Forest Fire Danger Index
 
-> <img src= "https://www.dropbox.com/s/s8bnea6eniv6dqm/fire_danger_index.gif?dl=1" width="500" />
+> <img src= "https://www.dropbox.com/s/3hx4clwthaz9nb3/fire_danger_index.gif?dl=1" width="500" />
 > 
 > Read about [my current research](https://agu.confex.com/agu/fm15/webprogram/Paper64244.html) into the effects of climate change on extreme fire weather.
 
